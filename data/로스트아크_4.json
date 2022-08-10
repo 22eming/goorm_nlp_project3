@@ -1,0 +1,30 @@
+{
+	"Dataset": {
+		"label_path": "data/",
+		"src_path": "data/"
+	},
+	"Images": {
+		"width": 1280,
+		"height": 720,
+		"identifier": "로스트아크_4",
+		"depth": 3
+	},
+	"bbox": [
+		{
+			"data": "디트오함마TV",
+			"id": 1,
+			"x": [
+				60,
+				60,
+				693,
+				693
+			],
+			"y": [
+				140,
+				140,
+				243,
+				243
+			]
+		}
+	]
+}

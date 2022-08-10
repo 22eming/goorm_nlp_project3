@@ -1,0 +1,30 @@
+{
+	"Dataset": {
+		"label_path": "data/",
+		"src_path": "data/"
+	},
+	"Images": {
+		"width": 1280,
+		"height": 720,
+		"identifier": "배그_21",
+		"depth": 3
+	},
+	"bbox": [
+		{
+			"data": "각성",
+			"id": 1,
+			"x": [
+				355,
+				355,
+				577,
+				577
+			],
+			"y": [
+				179,
+				179,
+				614,
+				614
+			]
+		}
+	]
+}

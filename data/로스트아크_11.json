@@ -1,0 +1,13 @@
+{
+	"Dataset": {
+		"label_path": "data/",
+		"src_path": "data/"
+	},
+	"Images": {
+		"width": 1280,
+		"height": 720,
+		"identifier": "로스트아크_11",
+		"depth": 3
+	},
+	"bbox": []
+}

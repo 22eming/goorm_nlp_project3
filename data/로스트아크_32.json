@@ -1,0 +1,30 @@
+{
+	"Dataset": {
+		"label_path": "data/",
+		"src_path": "data/"
+	},
+	"Images": {
+		"width": 1280,
+		"height": 720,
+		"identifier": "로스트아크_32",
+		"depth": 3
+	},
+	"bbox": [
+		{
+			"data": "품질작",
+			"id": 1,
+			"x": [
+				65,
+				65,
+				632,
+				632
+			],
+			"y": [
+				471,
+				471,
+				692,
+				692
+			]
+		}
+	]
+}
